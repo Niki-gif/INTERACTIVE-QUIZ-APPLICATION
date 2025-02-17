@@ -21,4 +21,6 @@ This project can be further enhanced by:
 
 By building this quiz app, you gain valuable frontend development skills while creating a useful, interactive tool.
 
-*OUTPUT*: 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/c9aeae6d-ffc6-4f6f-b86e-24044fe67650)
+![Image](https://github.com/user-attachments/assets/b55236bc-d7a0-4b7b-90b1-469549174bd8)
+![Image](https://github.com/user-attachments/assets/c922abba-b493-427e-9861-1546f9fc6ce4)
